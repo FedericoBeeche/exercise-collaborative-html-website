@@ -1,3 +1,14 @@
 body{
-    background: #BDBDBD;
+ /*   background: #BDBDBD;*/
+}
+
+#head-image{
+    background-image: url('../assets/img/bg.jpg');
+    background-size: cover;
+    height: 500px;
+   /*background-color: #333;*/
+
+}
+h1{
+    color:
 }
